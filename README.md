@@ -3,9 +3,9 @@
 </p>
 
 # Awesome Level Design [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An awesome list of educational material and tools for game level design. 😎
+An awesome list of resources and tools for game level design. 😎
 
-Please note: Some resources listed are not completely genre/tool agnostic. However, you may find useful information to apply in your own work regardless of the context they are used.
+Some resources listed are not completely genre/tool agnostic. However, you may find useful information to apply in your own work regardless of the context they are used.
 
 *Go map!* 🏞️🔨
 
@@ -15,6 +15,7 @@ Please note: Some resources listed are not completely genre/tool agnostic. Howev
 + [Level Design Site](https://sites.google.com/view/leveldesigner/english-version?authuser=0) - Essentially a big link dump of resources.
 + [Push and Pull](https://www.clement-melendez.com/portfolio/essays) - A great post on guiding players through and environment.
 + [The Level Design Compendium](https://www.reddit.com/r/leveldesign/comments/fv2t97/level_design_compendium_the_curated_list_40_links/) - Reddit post with tons of links.
++ [Level-Design.org](http://level-design.org/) - Knowledge/Reference database for level designing.
 
 ## YouTube Channels
 
@@ -24,7 +25,7 @@ Please note: Some resources listed are not completely genre/tool agnostic. Howev
 
 ## GDC Talks
 
-+ [The Importance of Nothing](https://www.youtube.com/watch?v=GZ99gAb4T0o) - A GDC talk about negative space in map design.
++ [The Importance of Nothing](https://www.youtube.com/watch?v=GZ99gAb4T0o) - A talk about negative space in map design.
 
 ## Podcasts
 
@@ -39,10 +40,10 @@ Please note: Some resources listed are not completely genre/tool agnostic. Howev
 
 + Understand the difference between level design and environmental design. In a lot of cases it's important to learn both so you can differentiate the two. Level design is worried about context of gameplay, the purpose of each room, designing from a mechanic perspective, and the overall flow between each room. Environment Design is visualization of centerpieces, how the level "looks", theming, and using props/textures/colors to differentiate rooms.
 
-## Needs Categorization
+## Not Categorized
 
 + [Bubble Maps](https://www.youtube.com/watch?v=h-r6RFK8I7k) - Very handy way to get an flow, goals, pacing, scope, and main ideas communicated to your team without worrying about geo architecture. It also can help quickly communicate initial design language, like knowing where certain mechanics will be employed per room.
-+ [Prototype Kits](https://www.youtube.com/watch?v=e50wIYx5SPI) - Used to build up a library of building block, modular "primitives" to rapidly prototype room ideas.
++ [Creating Prototype Kits](https://www.youtube.com/watch?v=e50wIYx5SPI) - Used to build up a library of building block, modular "primitives" to rapidly prototype room ideas.
 
 ## Tools
 
