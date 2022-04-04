@@ -9,13 +9,14 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 *Go map!* 🏞️🔨
 
-## Sites/Blogs
+## Sites/Blogs/Documents
 
 + [Level Design Book](https://book.leveldesignbook.com/) - A WIP book on level design. Definitely worth a read if you're just starting out.
 + [Level Design Site](https://sites.google.com/view/leveldesigner/english-version?authuser=0) - Essentially a big link dump of resources.
 + [Push and Pull](https://www.clement-melendez.com/portfolio/essays) - A great post on guiding players through and environment.
 + [The Level Design Compendium](https://www.reddit.com/r/leveldesign/comments/fv2t97/level_design_compendium_the_curated_list_40_links/) - Reddit post with tons of links.
 + [Level-Design.org](http://level-design.org/) - Knowledge/Reference database for level designing.
++ [In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit) - A big Google Doc on level design from @TychoBolt.
 
 ## YouTube Channels
 
