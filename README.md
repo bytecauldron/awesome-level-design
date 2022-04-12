@@ -23,6 +23,7 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 + [TimDoesLevelDesign](https://www.youtube.com/channel/UCTjhFJvDYh1uWT0705LAKFg) - Short and to the point videos on different LD concepts.
 + [Steve Lee](https://www.youtube.com/channel/UCRT_DdZnWiUryqrOhLL7gyw) - Steve is a level designer with previous experience on Dishonored 2 and Bioshock: Infinite. Their videos focus on case studies for specific maps they created and how to improve your level design portfolio.
 + [Jacob Mills](https://www.youtube.com/channel/UC3Slh5sOQnPAM8RGgZCqOXA) - Jacob was a level designer on the Division 2 and several other titles. They have a couple walkthroughs on how they approached specific missions.
++ [Art of Level Design](https://www.youtube.com/c/ArtofLevelDesign)
 
 ## GDC Talks
 
