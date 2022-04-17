@@ -9,7 +9,20 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 *Go map!* 🏞️🔨
 
-## Sites/Blogs/Documents
+
+## Contents
+
+- [Sites](#sites)
+- [YouTube](#youtube)
+- [GDC Talks](#gdc-talks)
+- [Podcasts](#podcasts)
+- [Communities](#communities)
+- [Tools](#tools)
+- [Combat](#combat)
+- [Tips](#tips)
+- [Not Categorized](#not-categorized)
+
+## Sites
 
 + [Level Design Book](https://book.leveldesignbook.com/) - A WIP book on level design. Definitely worth a read if you're just starting out.
 + [Level Design Site](https://sites.google.com/view/leveldesigner/english-version?authuser=0) - Essentially a big link dump of resources.
@@ -27,8 +40,9 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 + [Corwin](https://www.youtube.com/channel/UCxuhmy4B9ps575-mkZapfHA) - Creator of the "Push and Pull" website. Has a couple videos on level design worth checking out. The videos are a decade old but there is great info here.
 + [Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) - Mark has several videos on level design. Specifically "Why Nathan Drake Doesn’t Need a Compass" and "Why Nathan Drake Doesn’t Need a Compass".
 + [Max Barnyard](https://www.youtube.com/watch?v=ZBnVybKA6vE&list=PLn_z9uQtOsWr79jSfptklViVIpPbigCvs) - Has a series on great levels in gaming worth checking out.
-+ [Ex-BioShock Dev Shares 'Welcome to Rapture' Secrets - IGN First](https://www.youtube.com/watch?v=l6aDrIJJvxg) - Review of the first level of Bioshock with designer Bill Gardner.
++ [Sykoo](https://www.youtube.com/channel/UCNJvwJ6daLmw4_gUKTw4cSg) - Several great videos on level design principles.
 + [World of Level Design](https://www.youtube.com/c/WorldofLevelDesign) - A channel from AlexG dedicated to LD workflow and environment art.
++ [Ex-BioShock Dev Shares 'Welcome to Rapture' Secrets - IGN First](https://www.youtube.com/watch?v=l6aDrIJJvxg) - Review of the first level of Bioshock with designer Bill Gardner.
 
 ## GDC Talks
 
@@ -44,6 +58,16 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 + [Level Design Subreddit](https://www.reddit.com/r/leveldesign/)
 
+## Tools
+
++ [LDtk](https://ldtk.io/) - A modern 2D level editor.
++ [PureRef](https://www.pureref.com/) - PureRef is a wonderful tool to collect your visual ideas for each sequence of the map. Even if you are not a dedicated environment artist, you may find this useful. I usually gather several images to represent some visual ideas/architecture to propose for the block-in.
++ [Probuilder](https://unity.com/features/probuilder) - A free Unity extension that is great for rapidly building initial 3D level geo.
+
+## Combat
+
++ [The Door Problem](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design/) - A blog post teaching how to build more engaging combat encounter rooms (specifically in first person shooters).
+
 ## Tips
 
 + You can't play documentation. Start blocking out your ideas. Through play-testing, you will discover what works and what doesn't.
@@ -55,13 +79,3 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 + [Bubble Maps](https://www.youtube.com/watch?v=h-r6RFK8I7k) - Very handy way to get an flow, goals, pacing, scope, and main ideas communicated to your team without worrying about geo architecture. It also can help quickly communicate initial design language, like knowing where certain mechanics will be employed per room.
 + [Creating Prototype Kits](https://www.youtube.com/watch?v=e50wIYx5SPI) - Used to build up a library of building block, modular "primitives" to rapidly prototype room ideas.
 + [Norberg's Twitter](https://twitter.com/the_Norberg) - Lead LD at Starbreeze. They post a lot of helpful information. They are also working on an LD book.
-
-## Tools
-
-+ [LDtk](https://ldtk.io/) - A modern 2D level editor.
-+ [PureRef](https://www.pureref.com/) - PureRef is a wonderful tool to collect your visual ideas for each sequence of the map. Even if you are not a dedicated environment artist, you may find this useful. I usually gather several images to represent some visual ideas/architecture to propose for the block-in.
-+ [Probuilder](https://unity.com/features/probuilder) - A free Unity extension that is great for rapidly building initial 3D level geo.
-
-## Combat Encounters
-
-+ [The Door Problem](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design/) - A blog post teaching how to build more engaging combat encounter rooms (specifically in first person shooters).
