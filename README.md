@@ -12,24 +12,27 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 ## Contents
 
-- [Sites](#sites)
+- [Websites](#websites)
 - [YouTube](#youtube)
 - [GDC Talks](#gdc-talks)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [Tools](#tools)
 - [Combat](#combat)
+- [Game Examples](#game-examples)
 - [Tips](#tips)
 - [Not Categorized](#not-categorized)
 
-## Sites
+## Websites
 
 + [Level Design Book](https://book.leveldesignbook.com/) - A WIP book on level design. Definitely worth a read if you're just starting out.
-+ [Level Design Site](https://sites.google.com/view/leveldesigner/english-version?authuser=0) - Essentially a big link dump of resources.
++ [Level Design Site](https://sites.google.com/view/leveldesigner/english-version?authuser=0) - A big list of links and specific articles on enhancing level readability.
 + [Push and Pull](https://www.clement-melendez.com/portfolio/essays) - A great post on guiding players through and environment.
 + [The Level Design Compendium](https://www.reddit.com/r/leveldesign/comments/fv2t97/level_design_compendium_the_curated_list_40_links/) - Reddit post with tons of links.
 + [Level-Design.org](http://level-design.org/) - Knowledge/Reference database for level designing.
 + [In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit) - A big Google Doc on level design from @TychoBolt.
++ [Next Level Design](https://www.nextleveldesign.org/)
++ [The Design Den](https://www.notion.so/thedesignden/The-Design-Den-626463ff41584a77aa78bf93b01063df)
 
 ## YouTube
 
@@ -42,12 +45,13 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 + [Max Barnyard](https://www.youtube.com/watch?v=ZBnVybKA6vE&list=PLn_z9uQtOsWr79jSfptklViVIpPbigCvs) - Has a series on great levels in gaming worth checking out.
 + [Sykoo](https://www.youtube.com/channel/UCNJvwJ6daLmw4_gUKTw4cSg) - Several great videos on level design principles.
 + [World of Level Design](https://www.youtube.com/c/WorldofLevelDesign) - A channel from AlexG dedicated to LD workflow and environment art.
-+ [Ex-BioShock Dev Shares 'Welcome to Rapture' Secrets - IGN First](https://www.youtube.com/watch?v=l6aDrIJJvxg) - Review of the first level of Bioshock with designer Bill Gardner.
 
 ## GDC Talks
 
 + [10 Principles of Good Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM) - Probably the first video you find on YouTube regarding the subject but I added it for completeness.
 + [The Importance of Nothing](https://www.youtube.com/watch?v=GZ99gAb4T0o) - A talk about negative space in map design.
++ [How to Tell Stories and Guide Players Through Level Design](https://www.youtube.com/watch?v=9RbXTv7iNbw) - Using level design architecture tips for leading player navigation. 
++ [Level Design with Impossible Geometry](https://www.youtube.com/watch?v=ed2zmmcEryw) - William Chyr explains the struggles in designing levels with impossible geometry in Manifold Garden.
 
 ## Podcasts
 
@@ -57,6 +61,7 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 ## Communities
 
 + [Level Design Subreddit](https://www.reddit.com/r/leveldesign/)
++ [The Design Den Discord](https://discord.gg/tAaDrRy)
 
 ## Tools
 
@@ -68,11 +73,21 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 + [The Door Problem](https://andrewyoderdesign.blog/2019/08/04/the-door-problem-of-combat-design/) - A blog post teaching how to build more engaging combat encounter rooms (specifically in first person shooters).
 
+## Game Examples
+
++ [Ex-BioShock Dev Shares 'Welcome to Rapture' Secrets - IGN First](https://www.youtube.com/watch?v=l6aDrIJJvxg) - Review of the first level of Bioshock with designer Bill Gardner.
++ [One Level Design Mistake I Learned to Avoid From Playing "Mirror's Edge"](https://www.youtube.com/watch?v=RiKT4V9x5KI) - A discussion of "Runner Vision" and how Mirror's Edge suffers from disruptions of navigational flow in some levels. Avoid placing where the player needs to go "outside" their view. You could argue flow disruption can be deliberate at times, requiring the player to investigate. This doesn't work very well in high-intensity moments where player "runner vision" and panic obfuscate the way forward.
++ [6 Instant Level Design Flow Tips as Seen in "Mirror's Edge"](https://www.youtube.com/watch?v=TPBQHYquLtA) - More tips on improving level flow with examples in Mirror's Edge.
++ [8 More Practical Level Design Ideas from "Mirror's Edge"](https://www.youtube.com/watch?v=8hNDo8aLEDY) - Even more level flow tips on Mirror's Edge to use in your own projects.
++ [A taxonomy of Weenies: the landmarks that define Ghost of Tsushima](https://www.gamedeveloper.com/design/a-taxonomy-of-weenies-the-landmarks-that-define-i-ghost-of-tsushima-i-) - Discussion of landmarks in Ghosts of Tsushima and approaching organic navigation in open world experiences.
++ [How to study a level](https://book.leveldesignbook.com/studies/overview) - From The Level Design Book. There are a few case studies here (including Thief) you can learn from when creating our own level design studies.
+
 ## Tips
 
 + You can't play documentation. Start blocking out your ideas. Through play-testing, you will discover what works and what doesn't.
 + Understand the difference between level design and environmental design. In a lot of cases it's important to learn both so you can differentiate the two. Level design is worried about context of gameplay, the purpose of each room, designing from a mechanic perspective, and the overall flow between each room. Environment Design is visualization of centerpieces, how the level "looks", theming, and using props/textures/colors to differentiate rooms.
-+ Level design is deeply coupled with gameplay design. You can't have one without the other. List your mechanics and be mindful of how they are introduced and spaced across your level.
++ Level design is deeply coupled with gameplay design. You cannot have one without the other. List your mechanics and be mindful of how they are introduced and spaced across your level.
++ Good level design guides the player naturally through a first playthrough. When we play a level once, we become biased with an existing mental map. This makes it difficult to look at potential level flow problems. Keep this in mind when getting playtester feedback.
 
 ## Not Categorized
 
