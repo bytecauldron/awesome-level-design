@@ -13,16 +13,35 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 ## Contents
 
+- [Tips](#tips)
 - [Websites](#websites)
+- [Books](#books)
+- [Blogs](#blogs)
 - [YouTube](#youtube)
-- [GDC Talks](#gdc-talks)
+- [Talks](#talks)
 - [Podcasts](#podcasts)
-- [Communities](#communities)
 - [Tools](#tools)
 - [Combat](#combat)
 - [Game Examples](#game-examples)
-- [Tips](#tips)
+- [Inspiration](#inspiration)
 - [Not Categorized](#not-categorized)
+- [Communities](#communities)
+
+## Tips
+
+- Find the levels that you are inspired by and do a case study. You can learn a lot just by breaking down someone elses work. Are there any specific parts that stand out? What mechanics are they teaching and where? It's especially helpful if they provided developer commentary.
+
+- Get playtester feedback early and often. What makes sense to the LD will not always make sense to the majority of players. Catching design flow issues early is easier to correct.
+
+- You can't play documentation. Start blocking out your ideas. Through play-testing, you will discover what works and what doesn't.
+
+- Understand the difference between level design and environmental design. It's important to learn both so you can differentiate the two. Level design is worried about context of gameplay, the purpose of each room, designing from a mechanic perspective, and the overall flow between each room. Environment Design is visualization of centerpieces, how the level "looks", theming, and using props/textures/colors to differentiate rooms.
+
+- Level design is deeply coupled with gameplay design. You cannot have one without the other. List your mechanics and be mindful of how they are introduced and reinforced across your level.
+
+- Good level design guides the player naturally through their first playthrough. When we play a level once, we become biased with an existing mental map ([The Curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)). This makes it difficult to look at potential level flow problems. Keep this in mind when getting playtester feedback.
+
+- Nothing is set in stone. Stay loose and be willing to change your block mesh if you believe it will improve its readability or flow. Your original plan will often never represent the final product.
 
 ## Websites
 
@@ -34,6 +53,16 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 - [In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit) - A big Google Doc on level design from @TychoBolt.
 - [Next Level Design](https://www.nextleveldesign.org/) - Tons of articles and educational resources on level design principles tools.
 - [The Design Den](https://www.notion.so/thedesignden/The-Design-Den-626463ff41584a77aa78bf93b01063df) - Official website for the level design Discord community. Hosts community challenges.
+
+## Books
+
+- [An Architectural Approach to Level Design](https://www.goodreads.com/book/show/43568650-architectural-approach-to-level-design)
+- [Level Design for Games: Creating Compelling Game Experiences](https://www.thriftbooks.com/w/level-design-for-games-creating-compelling-game-experiences-new-riders-games_phil-co/696267/item/54494297/#idiq=54494297&edition=5513876)
+- [Level Design: Concept, Theory, and Practice](https://www.routledge.com/Level-Design-Concept-Theory-and-Practice/Kremers/p/book/9781568813387#)
+
+## Blogs
+
+- [Iuliu-Cosmin Oniscu](https://iuliu-cosmin-oniscu.medium.com/)
 
 ## YouTube
 
@@ -47,22 +76,19 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 - [Sykoo](https://www.youtube.com/channel/UCNJvwJ6daLmw4_gUKTw4cSg) - Several great videos on level design principles.
 - [World of Level Design](https://www.youtube.com/c/WorldofLevelDesign) - A channel from AlexG dedicated to LD workflow and environment art.
 
-## GDC Talks
+## Talks
 
 - [10 Principles of Good Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM) - Probably the first video you find on YouTube regarding the subject but I added it for completeness.
 - [The Importance of Nothing](https://www.youtube.com/watch?v=GZ99gAb4T0o) - A talk about negative space in map design.
 - [How to Tell Stories and Guide Players Through Level Design](https://www.youtube.com/watch?v=9RbXTv7iNbw) - Using level design architecture tips for leading player navigation. 
 - [Level Design with Impossible Geometry](https://www.youtube.com/watch?v=ed2zmmcEryw) - William Chyr explains the struggles in designing levels with impossible geometry in Manifold Garden.
+- [CGSky's Open-World Level Design Talk](https://www.youtube.com/watch?v=QNjm9Ahedho)
+- [Building Believable Urban Environments](https://www.youtube.com/watch?v=x7o4e_e1JbM)
 
 ## Podcasts
 
 - [Level Design Lobby](https://www.youtube.com/c/LevelDesignLobby)
 - [Level Design Podcast](https://www.youtube.com/c/LevelDesignPodcast)
-
-## Communities
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/leveldesign/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tAaDrRy)
 
 ## Tools
 
@@ -83,24 +109,19 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 - [A taxonomy of Weenies: the landmarks that define Ghost of Tsushima](https://www.gamedeveloper.com/design/a-taxonomy-of-weenies-the-landmarks-that-define-i-ghost-of-tsushima-i-) - Discussion of landmarks in Ghosts of Tsushima and approaching organic navigation in open world experiences.
 - [How to study a level](https://book.leveldesignbook.com/studies/overview) - From The Level Design Book. There are a few case studies here (including Thief) you can learn from when creating our own level design studies.
 
-## Tips
+## Inspiration
 
-- Find the levels that you are inspired by and do a case study. You can learn a lot just by breaking down someone elses work. Are there any specific parts that stand out? What mechanics are they teaching and where? It's especially helpful if they provided developer commentary.
-
-- Get playtester feedback early and often! What makes sense to the LD will not always make sense to the majority of players. Catching design flow issues early is easier to correct.
-
-- You can't play documentation. Start blocking out your ideas. Through play-testing, you will discover what works and what doesn't.
-
-- Understand the difference between level design and environmental design. It's important to learn both so you can differentiate the two. Level design is worried about context of gameplay, the purpose of each room, designing from a mechanic perspective, and the overall flow between each room. Environment Design is visualization of centerpieces, how the level "looks", theming, and using props/textures/colors to differentiate rooms.
-
-- Level design is deeply coupled with gameplay design. You cannot have one without the other. List your mechanics and be mindful of how they are introduced and reinforced across your level.
-
-- Good level design guides the player naturally through their first playthrough. When we play a level once, we become biased with an existing mental map. This makes it difficult to look at potential level flow problems. Keep this in mind when getting playtester feedback.
-
-- Nothing is set in stone. Stay loose and be willing to change your block mesh if you believe it will improve its readability or flow. Your original plan will often never represent the final product.
++ [LevelDesignInspirationMachine](https://leveldesigninspirationmachine.tumblr.com/)
++ [121 Level Design and Game Environment Location Ideas](https://www.worldofleveldesign.com/categories/level_design_tutorials/100_level_design_ideas/100_level_design_ideas_and_locations.php)
++ [Amazing Architecture](https://amazingarchitecture.com/)
 
 ## Not Categorized
 
 - [Bubble Maps](https://www.youtube.com/watch?v=h-r6RFK8I7k) - Very handy way to get an flow, goals, pacing, scope, and main ideas communicated to your team without worrying about geo architecture. It also can help quickly communicate initial design language, like knowing where certain mechanics will be employed per room.
 - [Creating Prototype Kits](https://www.youtube.com/watch?v=e50wIYx5SPI) - Used to build up a library of building block, modular "primitives" to rapidly prototype room ideas.
 - [Norberg's Twitter](https://twitter.com/the_Norberg) - Lead LD at Starbreeze. They post a lot of helpful information. They are also working on an LD book.
+
+## Communities
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/leveldesign/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tAaDrRy)
