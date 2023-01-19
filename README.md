@@ -13,7 +13,6 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 ## Contents
 
-- [Tips](#tips)
 - [Websites](#websites)
 - [Books](#books)
 - [Blogs](#blogs)
@@ -26,22 +25,7 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 - [Inspiration](#inspiration)
 - [Not Categorized](#not-categorized)
 - [Communities](#communities)
-
-## Tips
-
-- Find the levels that you are inspired by and do a case study. You can learn a lot just by breaking down someone elses work. Are there any specific parts that stand out? What mechanics are they teaching and where? It's especially helpful if they provided developer commentary.
-
-- Get playtester feedback early and often. What makes sense to the LD will not always make sense to the majority of players. Catching design flow issues early is easier to correct.
-
-- You can't play documentation. Start blocking out your ideas. Through play-testing, you will discover what works and what doesn't.
-
-- Understand the difference between level design and environmental design. It's important to learn both so you can differentiate the two. Level design is worried about context of gameplay, the purpose of each room, designing from a mechanic perspective, and the overall flow between each room. Environment Design is visualization of centerpieces, how the level "looks", theming, and using props/textures/colors to differentiate rooms.
-
-- Level design is deeply coupled with gameplay design. You cannot have one without the other. List your mechanics and be mindful of how they are introduced and reinforced across your level.
-
-- Good level design guides the player naturally through their first playthrough. When we play a level once, we become biased with an existing mental map ([The Curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)). This makes it difficult to look at potential level flow problems. Keep this in mind when getting playtester feedback.
-
-- Nothing is set in stone. Stay loose and be willing to change your block mesh if you believe it will improve its readability or flow. Your original plan will often never represent the final product.
+- [Tips](#tips)
 
 ## Websites
 
@@ -125,3 +109,19 @@ Some resources listed are not completely genre/tool agnostic. However, you may f
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/leveldesign/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tAaDrRy)
+
+## Tips
+
+- Find the levels that you are inspired by and do a case study. You can learn a lot just by breaking down someone elses work. Are there any specific parts that stand out? What mechanics are they teaching and where? It's especially helpful if they provided developer commentary.
+
+- Get playtester feedback early and often. What makes sense to the LD will not always make sense to the majority of players. Catching design flow issues early is easier to correct.
+
+- You can't play documentation. Start blocking out your ideas. Through play-testing, you will discover what works and what doesn't.
+
+- Understand the difference between level design and environmental design. It's important to learn both so you can differentiate the two. Level design is worried about context of gameplay, the purpose of each room, designing from a mechanic perspective, and the overall flow between each room. Environment Design is visualization of centerpieces, how the level "looks", theming, and using props/textures/colors to differentiate rooms.
+
+- Level design is deeply coupled with gameplay design. You cannot have one without the other. List your mechanics and be mindful of how they are introduced and reinforced across your level.
+
+- Good level design guides the player naturally through their first playthrough. When we play a level once, we become biased with an existing mental map ([The Curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)). This makes it difficult to look at potential level flow problems. Keep this in mind when getting playtester feedback.
+
+- Nothing is set in stone. Stay loose and be willing to change your block mesh if you believe it will improve its readability or flow. Your original plan will often never represent the final product.
