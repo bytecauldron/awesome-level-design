@@ -149,7 +149,7 @@ Level design is, as described in [The Level Design Book](https://book.leveldesig
 
 - Players don't learn when stressed. Your level "teaching moments" will be easier to get across in safer environments.
 
-- Players don't look up. Keep this in mind if the path forward is on a cliff or a latter. To combat this, for example, you may want to provide a clear vista of the navigational goal beforehand if it's above their head.
+- Players don't look up. Keep this in mind if the path forward is on a cliff or a ladder. To combat this, for example, you may want to provide a clear vista of the navigational goal beforehand if it's above their head.
 
 - Level design is deeply coupled with gameplay design. You cannot have one without the other. List your mechanics and be mindful of how they are introduced and reinforced across your level. For example, if your game has a jump mechanic but never provides an opportunity to use it (no fall hazards and ramps at every incline), what is the point of having it?
 
