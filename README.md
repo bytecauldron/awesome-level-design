@@ -86,6 +86,8 @@ Level design is, as described in [The Level Design Book](https://book.leveldesig
 - [Radiant](https://icculus.org/gtkradiant/) - The open source, cross platform level editor for id Tech games.
 - [DarkRadiant](https://www.thedarkmod.com/mission-authors/) - A customized editor for The Dark Mod. The Dark Mod is a free stealth game heavily inspired by Thief. If you want to try your hand at making a Thief 1, Thief 2, or System Shock 2 mission, check out [this post.](https://www.ttlg.com/forums/showthread.php?t=131800)
 - [HPL](https://wiki.frictionalgames.com/page/Main_Page) - Frictional Games engine and subsequent iterations. Comes with a level editor.
+- [TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-platform level editor for Quake-engine based games.
+- [Unearth](https://github.com/rainlizard/Unearth) - Map editor for Godot used in Dunegon Keeper 1/KeeperFX
 
 ## Combat
 
